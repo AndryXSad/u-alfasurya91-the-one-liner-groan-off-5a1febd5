@@ -31,6 +31,9 @@ import sys
 
 JOKE = "I told my GPS I needed space. It said, 'Recalculating your relationship.'"
 
+# FIX 2026-11-26: cosmetic comment only (second authored message for
+# thinking_revised); the joke text and program output are unchanged.
+
 FILENAME = "entry.txt"
 
 
